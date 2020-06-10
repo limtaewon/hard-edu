@@ -6,6 +6,10 @@
 ## 2주차과제 (2020.5.28)
 ● https://github.com/limtaewon/hard-edu/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb
 
+● https://nbviewer.jupyter.org/github/limtaewon/hard-edu/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb
+
+● 첫번째 링크가 열리지 않을경우 두번째 링크로 접속해주세요
+
 ## 3주차과제 (2020.6.04)
 ● https://github.com/limtaewon/hard-edu/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb
 
