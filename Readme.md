@@ -8,3 +8,5 @@
 
 ## 3주차과제 (2020.6.04)
 ● https://github.com/limtaewon/hard-edu/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb
+● https://nbviewer.jupyter.org/github/limtaewon/hard-edu/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb
+  ㄴ---> 첫번째 링크가 열리지 않을경우 두번째 링크로 접속해주세요
