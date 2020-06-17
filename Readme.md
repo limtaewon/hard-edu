@@ -16,3 +16,6 @@
 ● https://nbviewer.jupyter.org/github/limtaewon/hard-edu/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C1.ipynb
  
 ● 첫번째 링크가 열리지 않을경우 두번째 링크로 접속해주세요
+
+## 4주차과제 (2020.6. 17)
+● https://github.com/limtaewon/hard-edu/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb
